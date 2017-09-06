@@ -19,3 +19,6 @@
 [submodule "bc-rest"]
 	path = bc-rest
 	url = git@github.com:bcsoft/bc-rest.git
+[submodule "bc-vue-components"]
+	path = bc-vue-components
+	url = git@github.com:bcsoft/bc-vue-components.git
