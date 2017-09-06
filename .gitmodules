@@ -10,3 +10,6 @@
 [submodule "bc-express"]
 	path = bc-express
 	url = git@github.com:bcsoft/bc-express.git
+[submodule "bc-framework"]
+	path = bc-framework
+	url = git@github.com:bcsoft/bc-framework.git
