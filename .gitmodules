@@ -34,3 +34,6 @@
 [submodule "bc-demo"]
 	path = bc-demo
 	url = git@github.com:bcsoft/bc-demo.git
+[submodule "bc-workflow-examples"]
+	path = bc-workflow-examples
+	url = git@github.com:bcsoft/bc-workflow-examples.git
