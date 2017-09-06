@@ -22,3 +22,6 @@
 [submodule "bc-vue-components"]
 	path = bc-vue-components
 	url = git@github.com:bcsoft/bc-vue-components.git
+[submodule "bc-start"]
+	path = bc-start
+	url = git@github.com:bcsoft/bc-start.git
