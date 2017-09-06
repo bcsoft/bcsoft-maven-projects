@@ -31,3 +31,6 @@
 [submodule "bc-team"]
 	path = bc-team
 	url = git@github.com:bcsoft/bc-team.git
+[submodule "bc-demo"]
+	path = bc-demo
+	url = git@github.com:bcsoft/bc-demo.git
