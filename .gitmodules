@@ -1,3 +1,6 @@
 [submodule "bc-3rd-party-jar"]
 	path = bc-3rd-party-jar
 	url = git@github.com:bcsoft/bc-3rd-party-jar.git
+[submodule "bc-category"]
+	path = bc-category
+	url = git@github.com:bcsoft/bc-category.git
