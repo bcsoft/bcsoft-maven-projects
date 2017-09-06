@@ -13,3 +13,6 @@
 [submodule "bc-framework"]
 	path = bc-framework
 	url = git@github.com:bcsoft/bc-framework.git
+[submodule "bc-workflow"]
+	path = bc-workflow
+	url = git@github.com:bcsoft/bc-workflow.git
