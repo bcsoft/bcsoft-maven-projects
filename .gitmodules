@@ -25,3 +25,6 @@
 [submodule "bc-start"]
 	path = bc-start
 	url = git@github.com:bcsoft/bc-start.git
+[submodule "bcsoft.github.io"]
+	path = bcsoft.github.io
+	url = git@github.com:bcsoft/bcsoft.github.io.git
