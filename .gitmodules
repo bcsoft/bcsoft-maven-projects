@@ -1,6 +1,3 @@
-[submodule "bc-3rd-party-jar"]
-	path = bc-3rd-party-jar
-	url = git@github.com:bcsoft/bc-3rd-party-jar.git
 [submodule "bc-category"]
 	path = bc-category
 	url = git@github.com:bcsoft/bc-category.git
@@ -19,15 +16,6 @@
 [submodule "bc-rest"]
 	path = bc-rest
 	url = git@github.com:bcsoft/bc-rest.git
-[submodule "bc-vue-components"]
-	path = bc-vue-components
-	url = git@github.com:bcsoft/bc-vue-components.git
-[submodule "bc-start"]
-	path = bc-start
-	url = git@github.com:bcsoft/bc-start.git
-[submodule "bcsoft.github.io"]
-	path = bcsoft.github.io
-	url = git@github.com:bcsoft/bcsoft.github.io.git
 [submodule "bc-team"]
 	path = bc-team
 	url = git@github.com:bcsoft/bc-team.git
