@@ -20,6 +20,6 @@
 		<module>bc-express</module>
 		<module>bc-rest</module>
 		<module>bc-team</module>
-		<module>bc-demo</module>
+		<!-- <module>bc-demo</module> -->
 	</modules>
 </project>
